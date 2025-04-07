@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Business woman",
+        "author": "Umme Roman Syed",
+        "year": "2025",
+        "genre": "self help",
+        "read": false
+    },
+    {
+        "title": "The Last Algorithm",
+        "author": "Ayaan Elric",
+        "year": "2024",
+        "genre": "science fiction",
+        "read": true
+    },
+    {
+        "title": "Whispers in the Fog",
+        "author": "Lina Rae",
+        "year": "2023",
+        "genre": "thriller",
+        "read": false
+    },
+    {
+        "title": "Rise & Rebuild",
+        "author": "Noor Patel",
+        "year": "2022",
+        "genre": "self help",
+        "read": true
+    },
+    {
+        "title": "Love Over Logic",
+        "author": "Sara Adeel",
+        "year": "2021",
+        "genre": "romance",
+        "read": false
+    },
+    {
+        "title": "Echoes of Time",
+        "author": "Rohan Ishikawa",
+        "year": "2020",
+        "genre": "fantasy",
+        "read": true
+    },
+    {
+    "title": "Lead Like a Flame",
+    "author": "Zara Mikhail",
+    "year": "2023",
+    "genre": "self help",
+    "read": false
+    },
+    {
+        "title": "The Power of Stillness",
+        "author": "Imran Qureshi",
+        "year": "2021",
+        "genre": "self help",
+        "read": true
+    }
+]
